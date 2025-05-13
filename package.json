@@ -2,6 +2,7 @@
   "name": "recipes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ayooub.me/recipes",
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
     "@testing-library/dom": "^10.4.0",
