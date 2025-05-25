@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jounaidayoub.gith/recipes/static/css/main.804ea737.css",
+    "main.js": "/jounaidayoub.gith/recipes/static/js/main.c5372ae8.js",
+    "static/js/453.fb6e7294.chunk.js": "/jounaidayoub.gith/recipes/static/js/453.fb6e7294.chunk.js",
+    "index.html": "/jounaidayoub.gith/recipes/index.html",
+    "main.804ea737.css.map": "/jounaidayoub.gith/recipes/static/css/main.804ea737.css.map",
+    "main.c5372ae8.js.map": "/jounaidayoub.gith/recipes/static/js/main.c5372ae8.js.map",
+    "453.fb6e7294.chunk.js.map": "/jounaidayoub.gith/recipes/static/js/453.fb6e7294.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804ea737.css",
+    "static/js/main.c5372ae8.js"
+  ]
+}
